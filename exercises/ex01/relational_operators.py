@@ -1,4 +1,4 @@
-"""relational operators with inputted values T/F"""
+"""relational operators with inputted values T/F."""
 
 __author__ = "730402890"
 

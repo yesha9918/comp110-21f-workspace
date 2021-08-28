@@ -1,4 +1,4 @@
-"""numerical operations on two inputted values"""
+"""numerical operations on two inputted values."""
 
 __author__ = "730402890"
 
