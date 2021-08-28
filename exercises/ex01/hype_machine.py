@@ -1,5 +1,8 @@
-# TODO: Write docstring here
+"""hype machine asking for input"""
 
-# TODO: Initialize __author__ variable here
+__author__ = "730402890"
 
-# TODO: Implement your program logic here
+name: str = input("What is your name? ")
+print(name + ", you're the best!")
+print("If there's ever a problem, " + name + " can do it!" )
+print("Keep up the good work " + name +"!")
