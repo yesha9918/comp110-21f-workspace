@@ -12,5 +12,5 @@ counter: int = 0
 
 while counter < depth and depth > 0:
     print(tree_string)
-    tree_string = tree_string + " " + TREE
+    tree_string = tree_string + TREE
     counter = counter + 1
